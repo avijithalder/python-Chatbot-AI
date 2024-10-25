@@ -1,0 +1,10 @@
+{
+  "links":
+  {
+    "youtube": "https://youtube.com",
+    "wikipedia": "https://wikipedia.com",
+    "google": "https://google.com",
+    "facebook": "https://facebook.com",
+    "map": "https://www.google.com/maps"
+  }
+}
